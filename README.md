@@ -5,6 +5,7 @@ Professor [Tom Armstrong](http://www.tarmstro.com/), Wheaton College, Fall 2016
 #### Meeting Information:
 
 * Meeting Times: MTuW at 3:30 in SC1315
+* Office Hours: MW at 2:00 - 3:00 in SC1308 and by appointment
 
 #### Catalog Description:
 
