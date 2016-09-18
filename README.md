@@ -44,7 +44,7 @@ In compliance with the Wheaton College policy and equal access laws, a Dean is a
 1 **TuW** | Week of 29 Aug | Introduction
 2 **TuW** | Week of 5 Sept | Introduction to Algorithms &mdash; K&T 1
 3 | Week of 12 Sept | Algorithm Analysis &mdash; K&T 2
-4 | Week of 19 Sept | 
+4 | Week of 19 Sept | Algorithm Analysis &mdash; K&T 2
 5 | Week of 26 Sept | 
 6 | Week of 3 Oct | 
 7 **W** | Week of 10 Oct | Midterm Examination
