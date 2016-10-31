@@ -5,7 +5,7 @@ Professor [Tom Armstrong](http://www.tarmstro.com/), Wheaton College, Fall 2016
 #### Meeting Information:
 
 * Meeting Times: MTuW at 3:30 in SC1315
-* Office Hours: MW at 2:00 - 3:00 in SC1308 and by appointment
+* Office Hours: MW at 2:30 - 3:30 in SC1308 and by appointment
 
 #### Catalog Description:
 
@@ -45,12 +45,12 @@ In compliance with the Wheaton College policy and equal access laws, a Dean is a
 2 **TuW** | Week of 5 Sept | Introduction to Algorithms &mdash; K&T 1
 3 | Week of 12 Sept | Algorithm Analysis &mdash; K&T 2
 4 | Week of 19 Sept | Algorithm Analysis &mdash; K&T 2
-5 | Week of 26 Sept | Algorithm Analysis &mdash; K&T 3
-6 | Week of 3 Oct | Algorithm Analysis — K&T 3
-7 **W** | Week of 10 Oct | Algorithm Analysis — K&T 4
-8 | Week of 17 Oct | Algorithm Analysis — K&T 4
+5 | Week of 26 Sept | Graphs &mdash; K&T 3
+6 | Week of 3 Oct | Graphs — K&T 3
+7 **W** | Week of 10 Oct | Greedy Algorithms — K&T 4
+8 | Week of 17 Oct | Greedy Algorithms — K&T 4
 9 | Week of 24 Oct | Midterm Examination
-10 | Week of 31 Oct | 
+10 | Week of 31 Oct | Divide & Conquer — K&T 4
 11 | Week of 7 Nov | 
 12 | Week of 14 Nov |
 13 **MTu** | Week of 21 Nov | 
