@@ -51,9 +51,9 @@ In compliance with the Wheaton College policy and equal access laws, a Dean is a
 8 | Week of 17 Oct | Greedy Algorithms — K&T 4
 9 | Week of 24 Oct | Midterm Examination
 10 | Week of 31 Oct | Divide & Conquer — K&T 5
-11 | Week of 7 Nov | 
-12 | Week of 14 Nov |
-13 **MTu** | Week of 21 Nov | 
+11 | Week of 7 Nov | Divide & Conquer — K&T 5
+12 | Week of 14 Nov | Dynamic Programming - K&T 6
+13 **MTu** | Week of 21 Nov | Dynamic Programming - K&T 6
 14 | Week of 28 Nov | Final Examination
 15 | Week of 5 Dec | Project Presentations
 
