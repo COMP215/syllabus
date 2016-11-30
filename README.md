@@ -54,8 +54,8 @@ In compliance with the Wheaton College policy and equal access laws, a Dean is a
 11 | Week of 7 Nov | Divide & Conquer — K&T 5
 12 | Week of 14 Nov | Dynamic Programming - K&T 6
 13 **MTu** | Week of 21 Nov | Dynamic Programming - K&T 6
-14 | Week of 28 Nov | Final Examination
-15 | Week of 5 Dec | Project Presentations
+14 | Week of 28 Nov | Illness
+15 | Week of 5 Dec | K&T 8
 
 ## Methods of Evaluation
 
